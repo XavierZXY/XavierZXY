@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierzxy&label=Profile%20views&color=0e75b6&style=flat" alt="xavierzxy" /> </p>
 
-- 🔭 I’m currently working on **CSUST**
+- 🔭 I’m currently working on **SIAT SUAT SZU**
 
-- 🌱 I’m currently learning **machine learning and HPC**
+- 🌱 I’m currently learning **AIGC**
 
 - 📫 How to reach me **zxy.xavier@gmail.com**
 
