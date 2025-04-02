@@ -11,5 +11,4 @@
 
 --- 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierzxy&show_icons=true&locale=en" alt="xavierzxy" /></p>
-
+[![XavierZXY's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierZXY)](https://github.com/anuraghazra/github-readme-stats)
